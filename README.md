@@ -1,4 +1,4 @@
-functions and their  de escription:
+Functions and their  description:
 
 admin functions:
 
